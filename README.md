@@ -9,6 +9,9 @@ Med bot is an intelligent medical chatbot powered by the Llama-2-7B-Chat model. 
 - Provides relevant and accurate responses to medical queries
 - Easy to set up and run
 
+## Demo
+![Demo image](https://github.com/LearningBoy2002/Medbot/blob/main/Working.jpg)
+
 ## Prerequisites
 
 - Python 3.8.xx
